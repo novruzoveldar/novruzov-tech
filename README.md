@@ -98,7 +98,7 @@ I’m open to collaborating on:
 - Distributed systems and event-driven architectures  
 - DevOps practices and team mentorship  
 
-📬 Reach out via [LinkedIn](https://linkedin.com/in/eldarnovruzov) or [email](mailto:novruz.ldar@gmail.com)
+📬 Reach out via [LinkedIn](https://linkedin.com/in/eldarnovruzov) or [email](mailto:e.novruzovw@gmail.com)
 
 ---
 
